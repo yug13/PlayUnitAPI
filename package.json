@@ -1,0 +1,23 @@
+{
+  "name": "playunitapi",
+  "version": "1.0.0",
+  "description": "API Behing PlayUnit Project at DeltaHacks V",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yug13/PlayUnitAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yug13/PlayUnitAPI/issues"
+  },
+  "homepage": "https://github.com/yug13/PlayUnitAPI#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
